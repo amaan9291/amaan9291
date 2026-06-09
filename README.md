@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Amaan Khan</h1>
-<h3 align="center">github.com/dania-01 </h3>
-
 <h3 align="left">
 A passionate Full Stack Developer driven by the challenge of transforming ideas into impactful digital products. I enjoy building modern web applications with React, JavaScript, Firebase, and scalable frontend architectures, focusing on performance, usability, and real-world problem solving.
 
