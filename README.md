@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm Amaan Khan</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">github.com/dania-01 </h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">
+A passionate Full Stack Developer driven by the challenge of transforming ideas into impactful digital products. I enjoy building modern web applications with React, JavaScript, Firebase, and scalable frontend architectures, focusing on performance, usability, and real-world problem solving.
+
+🚀 Built an AI Productivity SaaS Platform designed to help users streamline workflows and improve productivity
+
+🌱 Currently exploring Next.js, MERN Stack development, and advanced frontend engineering concepts
+
+🎯 Passionate about creating intuitive user experiences, scalable systems, and high-quality code
+
+💬 Ask me about React, Firebase, JavaScript, REST APIs, and modern web development
+
+⚡ Fun fact: Great products are built one feature, one bug fix, and one cup of chai at a time ☕
+</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amaankhan9291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amaankhan9291" height="30" width="40" /></a>
 </p>
